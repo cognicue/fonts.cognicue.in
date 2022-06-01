@@ -1,4 +1,4 @@
-# CogniCue Fonts Services
+# CogniCue Fonts Services - v0.1.2
 
 `CogniCue` font [repository](https://github.com/cognicue/fonts.cognicue.in) for all applications deployed on the `master` branch.
 
