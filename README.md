@@ -1,8 +1,11 @@
-# CogniCue Fonts Services - v0.1.2
+# CogniCue Fonts Services - v0.1.4
 
-`CogniCue` font [repository](https://github.com/cognicue/fonts.cognicue.in) for all applications deployed on the `master` branch.
+CogniCue fonts [repository](https://github.com/cognicue/fonts.cognicue.in), deployed on the `master` branch.
 
-Download current font files from [here](https://github.com/cognicue/fonts.cognicue.in/tree/master/TTLakes/v1).
+| CogniCue Font | Files |
+| :----------:  | :----------: |
+| `v1:latest`   | [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/cognicue/fonts.cognicue.in/tree/master/TTLakes/v1)|
+
 
 ## Example for H1 header
 ```
