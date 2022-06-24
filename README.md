@@ -8,15 +8,19 @@ CogniCue fonts [repository](https://github.com/cognicue/fonts.cognicue.in), depl
 
 
 ## Example for H1 header
-```
-<link href="https://fonts.cognicue.in/cognicue.css" rel="stylesheet" type="text/css" />
+```html
+<link
+    href="https://fonts.cognicue.in/cognicue.css"
+    rel="stylesheet"
+    type="text/css"
+    />
 
 <style type="text/css">
 h1 {
-	font-family: CogniCue, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	font-stretch: condensed;
+    font-family: CogniCue, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: condensed;
 }
 </style>
 ```
