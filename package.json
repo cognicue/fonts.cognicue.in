@@ -1,0 +1,22 @@
+{
+  "name": "fonts-cognicue",
+  "version": "1.0.0",
+  "description": "CogniCue fonts",
+  "private": "true",
+  "scripts": {
+    "build": "cleancss cognicue.css -o cognicue.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cognicue/fonts.cognicue.in.git"
+  },
+  "keywords": ["font", "cognicue", "css", "files", "media"],
+  "author": "CogniCue",
+  "bugs": {
+    "url": "https://github.com/cognicue/fonts.cognicue.in/issues"
+  },
+  "homepage": "https://github.com/cognicue/fonts.cognicue.in#readme",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.0"
+  }
+}
