@@ -2,7 +2,7 @@
   font-family: 'CogniCue';
   font-style: normal;
   font-weight: 900;
-  src: url(https://fonts.cognicue.in/TTLakes/v1/TTLakes-Compressed-Black.otf);
+  src: url(https://fonts.cognicue.in/Roboto/Roboto-Black.ttf);
 }
 
 @font-face {
@@ -10,12 +10,12 @@
   font-style: normal;
   font-weight: 700;
   font-stretch: condensed;
-  src: url(https://fonts.cognicue.in/TTLakes/v1/TTLakes-Condensed-Bold.otf);
+  src: url(https://fonts.cognicue.in/Roboto/Roboto-Bold.ttf);
 }
 
 @font-face {
   font-family: 'CogniCue';
   font-style: normal;
   font-weight: 500;
-  src: url(https://fonts.cognicue.in/TTLakes/v1/TTLakes-Medium.otf);
+  src: url(https://fonts.cognicue.in/Roboto/Roboto-Medium.ttf);
 }
